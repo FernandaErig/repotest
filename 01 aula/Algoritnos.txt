@@ -1,0 +1,29 @@
+Algaritmos
+
+Trocar uma lâmpada
+
+1 Pegar lâmpada nova, banco, desligar a geral
+2 subir no banco
+2 Retirar a lâmpada queimada 
+3 Tirar a nova lâmpada da embalagem 
+4 Subir no banco 
+5 Rosquear a lâmpada nova no soquete
+6 Ligar a geral 
+7 Ligar Interruptor e testar se funcionou a nova lâmpada
+8 Desligar a lâmpada para não gastar pois a conta de luz está uma fortuna
+
+vir ate a Unisinos
+
+1 sair de casa utilizando carro 
+2 Ficar parada no transito da br por mais ou menos 20min
+3 procurar uma vaga nas imediações da Unisinos
+4 Estacionar o carro
+5 Pegar o caderno e a caneta 
+6 verificar localização da sala e caminhar até la
+7 Aguardar a abertura da sala 
+8 Sentar no pc 38 e aguardar o inicio da aula
+
+
+
+
+

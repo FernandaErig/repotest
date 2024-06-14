@@ -1,0 +1,27 @@
+const valores = ['pedra', 'papel', 'tesoura']
+let resposta
+do{
+console.log("Vamos jogar! Escolha sua arma\n[0]Pedra \n[1]Papel \n[2]Tessoura")
+
+let jogador = Number(prompt('Faça sua esolha'))
+jogador = valores[jogador]
+
+let bot = Math.floor(math.random()*3)
+
+bot = valores[bot]
+
+console.log("Você escolheu "+jogadores+"\n Seu adversário esolheu " +bot)
+
+if(jogador===bot){
+    console.log("empate")
+}else if((jogador==='pedra'&&bot==='tesoura')||(jogador==='papel'&&bot==='Pedra'||(jogador==='tesoura'&&bot==='papel'))){
+console.log("Você venceu")
+}else{
+    console.log("perdue:(")
+}
+
+resposta = prompt("Deseja jogar novamente?[s/n]")
+
+resposta = resposta.toUppercase()
+
+}while(resposta==='S')
